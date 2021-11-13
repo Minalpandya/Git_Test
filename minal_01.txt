@@ -23,5 +23,3 @@ Here’s a question for you — If the housing market is booming, will the s
 In most likelihood, your answer would be a decisive “Yes”, and on most occasions, you would be absolutely right. But let us introduce you to an anomaly in Zillow - a real estate listing company. An anomaly that has managed to get things horribly wrong for itself, at the time when US real estate market at large is going through a post-pandemic boom.
 
 So, how did Zillow get it so wrong?
-
-Allow us to tell you this fascinating story? Spoiler Alert - there are algorithms involved!
